@@ -3,7 +3,7 @@ function App() {
 
   return (
     <div>
-    <h1>This is our first session</h1>
+    <h2>This is our first session</h2>
 
     </div>
     
